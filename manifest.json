@@ -1,0 +1,19 @@
+{
+  "name": "ClasificadorImagenes",
+  "short_name": "ClasificadorImagenes",
+  "description": "Bienidos a esta pagina, este es un clasificador de imagenes, con el cual podremos identificar si el agua esta limpia, si tiene microrganismos,o si tiene levadura",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}

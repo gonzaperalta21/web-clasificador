@@ -1,0 +1,27 @@
+Esta es una pagina WPA que nos permite hacer una cierta verificacion
+de la calidad del agua por medio de una clasificacion de imagenes
+aplicando tecnologias de Inteligencia Artificial por medio de la utilziacion de 
+ML5 - P5.js - Html. De una forma sencilla pero muy eficiente.
+
+Haciendo uso de tecnicas de Deep learning entrene un modelo que
+contiene una extensa base de imagenes de microorganismos provenientes 
+de una proyeccion laser, tambien entrene un modelo de celulas de levaduras 
+para poder tener un cotejo de la eficiencia del modelo de entrenamiento 
+de mciroorganismos , tambien se entreno un modelo de agua potable para 
+poder realziar la compracion con el modelo de microorganismos.  
+
+
+El software clasificara las imagenes que se obtengan con la camara
+de su dispositivo fijo y mobil con las tres clases incluidaas en el modelo pre 
+entrenado (microorganismos , levaduras agua limpia ) y dara una certeza o aproximacion
+en % en cada una de las clases.    
+
+El software que esta alojado en esta url detecta automaticamente
+si es una PC o un dispositivo movil para acceder a la camara del 
+dispositivo y sumada esta wpa a un hardaware simple pero efectivo
+de proyeccion laser nos permitira visualizar una proyeccionlaser de una
+muestra de agua para su posterior evaluacion. 
+
+
+
+    
